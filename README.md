@@ -31,8 +31,6 @@ The scenarios consists of detailed scenarios that represent different user workf
 The mindmaps contains visual representations in the form of mindmaps. These mindmaps serve as a visual aid to understand the test coverage, dependencies between different features, and potential areas of focus during testing. Testers can use mindmaps to brainstorm ideas, track testing progress, and identify any gaps in their testing efforts.
 ## Reports
 The reports are dedicated to storing various reports generated during manual testing. Reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation. These reports provide valuable insights into the testing progress, identified issues, and overall test results.
-## Test Metrics
-The test-metrics contains metrics and measurements related to manual testing. Testers can track metrics such as test coverage, defect density, test execution time, and other relevant metrics to assess the quality and progress of testing activities. The metrics help identify areas of improvement and provide quantitative data for making informed decisions.
 
 ## Mindmap:
 
